@@ -1,6 +1,6 @@
-# ¡°Infinite 2048¡± PRIVACY POLICY 
+# "Infinite 2048" PRIVACY POLICY 
 
-This privacy policy governs your use of the software application Infinite 2048 (¡°Application¡±) for mobile devices that was created by Aaron Zhao. The Application is a simple mobile game that is a variant of the popular puzzle game 2048. The Application is published on Google Play only.
+This privacy policy governs your use of the software application Infinite 2048 ("Application") for mobile devices that was created by Aaron Zhao. The Application is a simple mobile game that is a variant of the popular puzzle game 2048. The Application is published on Google Play only.
  
 # What information does the Application obtain and how is it used?
 
